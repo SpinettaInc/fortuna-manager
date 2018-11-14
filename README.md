@@ -1,1 +1,1 @@
-# fortuna-manager
+# fortuna-webapp
